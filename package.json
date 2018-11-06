@@ -1,0 +1,19 @@
+{
+  "name": "step-forkio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leha-grig/step-forkio.git"
+  },
+  "author": "Oleksii Grygorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leha-grig/step-forkio/issues"
+  },
+  "homepage": "https://github.com/leha-grig/step-forkio#readme"
+}
