@@ -1,6 +1,7 @@
-
+import $ from 'jquery';
 $(function(){
-    $('.navbar__toggle-navbar').on('click', function(){
+    $('.navbar__toggle-navbar').on('click', function(e){
+        console.log('hello');
         $('.navbar__menu-block').toggleClass('active');
     });
     $('.navbar__menu-link').on('click', function(){
